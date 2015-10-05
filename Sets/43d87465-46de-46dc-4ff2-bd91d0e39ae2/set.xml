@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="High Magic" id="43d87465-46de-46dc-4ff2-bd91d0e39ae2" gameId="65656467-b709-43b2-a5c6-80c2f216adf9" gameVersion="2.2.6.0" version="0.1">
+ <cards>
+  <card id="079b389f-db8b-fa91-1e25-fcf8f8d37e04" name="Trixie">
+   <property name="Number" value="HM42" />
+   <property name="Type" value="Friend" />
+   <property name="Element" value="Magic" />
+   <property name="Subname" value="Center Stage" />
+   <property name="Power" value="3" />
+   <property name="Cost" value="3" />
+   <property name="PlayRequiredPower" value="2" />
+   <property name="PlayRequiredElement" value="Magic" />
+   <property name="Traits" value="Unicorn" />
+   <property name="Keywords" value="Showy 1." />
+   <property name="Text" value="When this card enters play, you may move an opposing character at this card's Problem." />
+   <property name="ProblemBonus" value="" />
+   <property name="ProblemOpponentPower" value="" />
+   <property name="ProblemPlayerElement1" value="" />
+   <property name="ProblemPlayerElement1Power" value="" />
+   <property name="ProblemPlayerElement2" value="" />
+   <property name="ProblemPlayerElement2Power" value="" />
+   <property name="Rarity" value="U" />
+  </card>
+  <card id="dc9ef4de-55c8-98fa-4bb1-b2ad7b03f127" name="Exact Duplicate">
+   <property name="Number" value="HM81" />
+   <property name="Type" value="Friend" />
+   <property name="Element" value="Magic" />
+   <property name="Subname" value="My Little Clony" />
+   <property name="Power" value="3" />
+   <property name="Cost" value="3" />
+   <property name="PlayRequiredPower" value="?" />
+   <property name="PlayRequiredElement" value="Kindness" />
+   <property name="Traits" value="Pegasus" />
+   <property name="Keywords" value="" />
+   <property name="Text" value="When you play this card, put a token copy of each of your token Friends into play." />
+   <property name="ProblemBonus" value="" />
+   <property name="ProblemOpponentPower" value="" />
+   <property name="ProblemPlayerElement1" value="" />
+   <property name="ProblemPlayerElement1Power" value="" />
+   <property name="ProblemPlayerElement2" value="" />
+   <property name="ProblemPlayerElement2Power" value="" />
+   <property name="Rarity" value="U" />
+  </card>
+ </cards>
+</set>
